@@ -18,6 +18,7 @@ sourceCompatibility = 1.8
 repositories {
     jcenter()
     flatDir { dirs '../unibolibs' }
+    mavenCentral()
 }
 
 dependencies {
@@ -30,6 +31,10 @@ dependencies {
     //RADAR (support and GUI)
     implementation name: 'radarPojo'
     implementation group: 'org.pushingpixels', name: 'trident', version: '1.3'
+
+    implementation 'com.pi4j:pi4j-core:2.1.1'
+    implementation 'com.pi4j:pi4j-plugin-raspberrypi:2.1.1'
+    implementation 'com.pi4j:pi4j-plugin-pigpio:2.1.1'
 }
 
 sourceSets {
