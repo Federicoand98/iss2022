@@ -1,15 +1,16 @@
 package it.unibo.radarSystem22.mytest;
 
+import com.pi4j.Pi4J;
 import com.pi4j.context.Context;
 import com.pi4j.io.gpio.digital.DigitalOutput;
 import com.pi4j.io.gpio.digital.DigitalOutputConfigBuilder;
 import com.pi4j.io.gpio.digital.DigitalState;
 import it.unibo.radarSystem22.domain.ILed;
-import com.pi4j.*;
 
 public class LedEnabler implements ILed {
 
     private static final int PIN_LED = 17;
+
     private Context pi4j;
     private DigitalOutput led = null;
 
