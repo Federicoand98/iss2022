@@ -1,9 +1,15 @@
-package it.unibo.radarSystem22.mytest;
+package it.unibo.radarSystem22.domain.mock;
 
 import it.unibo.radarSystem22.domain.IDistance;
 import it.unibo.radarSystem22.domain.ISonar;
 
-public class SonarServerProxy implements ISonar {
+public class SonarMock implements ISonar {
+
+    private boolean isRunning = false;
+
+    public SonarMock() {
+
+    }
 
     @Override
     public void activate() {
