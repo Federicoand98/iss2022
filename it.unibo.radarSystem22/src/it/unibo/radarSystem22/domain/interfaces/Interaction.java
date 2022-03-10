@@ -1,4 +1,4 @@
-package it.unibo.radarSystem22.interfaces;
+package it.unibo.radarSystem22.domain.interfaces;
 
 public interface Interaction {
     public void forward(String msg) throws Exception;

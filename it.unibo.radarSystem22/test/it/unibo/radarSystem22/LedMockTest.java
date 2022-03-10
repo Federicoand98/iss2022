@@ -1,6 +1,6 @@
 package it.unibo.radarSystem22;
 
-import it.unibo.radarSystem22.domain.ILed;
+import it.unibo.radarSystem22.domain.interfaces.ILed;
 import it.unibo.radarSystem22.domain.mock.LedMock;
 import org.junit.Before;
 import org.junit.Test;
