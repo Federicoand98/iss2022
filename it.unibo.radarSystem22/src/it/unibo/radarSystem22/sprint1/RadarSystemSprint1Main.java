@@ -89,10 +89,8 @@ public class RadarSystemSprint1Main implements IApplication {
 
     public static void main(String[] args) {
         //pc
-        /*
-        BasicUtils.aboutThreads("At init no config files |");
-        new RadarSystemSprint1Main().doJob(null, null);
-        */
+        //BasicUtils.aboutThreads("At init no config files |");
+        //new RadarSystemSprint1Main().doJob(null, null);
 
         // rasp
         BasicUtils.aboutThreads("At init with CONFIG files |");

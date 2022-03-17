@@ -6,7 +6,6 @@ import it.unibo.radarSystem22.domain.utils.ColorsOut;
 import it.unibo.radarSystem22.sprint1.RadarSystemConfig;
 
 public class LedAlarmUsecase {
-
     public static void doUseCase(ILed led, IDistance d) {
         try {
             if(d.getVal() < RadarSystemConfig.DLIMIT) {

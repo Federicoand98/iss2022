@@ -10,39 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="499ee6f4-2ada-410a-b4dc-5cfc0b9b484e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/it_unibo_radarSystem22_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/default/it/unibo/radarSystem22/main/RadarUsageMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/it_unibo_radarSystem22_jar/it.unibo.radarSystem22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/domain/DeviceFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/domain/Distance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/domain/interfaces/IDistance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/domain/interfaces/ILed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/domain/interfaces/IRadarDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/domain/interfaces/ISonar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/domain/interfaces/Interaction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/domain/mock/LedMock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/domain/mock/SonarMock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/domain/models/LedModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/domain/models/SonarModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/domain/utils/BasicUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/domain/utils/ColorsOut.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/domain/utils/DomainSystemConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/main/RadarUsageMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/it/unibo/radarSystem22/LedMockTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/it/unibo/radarSystem22/TestLed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userDocs/foto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userDocs/radarSystem22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/it.unibo.radarSystem22.domain-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/libs/it.unibo.radarSystem22.domain-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/IApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/sprint1/ActionFunction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/sprint1/RadarSystemConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/sprint1/RadarSystemSprint1Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/unibo/radarSystem22/sprint1/RadarSystemSprint1Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/sprint1/usecases/LedAlarmUsecase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/sprint1/usecases/RadarGuiUsecase.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +29,36 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="it.unibo.radarSystem22" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="it.unibo.radarSystem22" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -223,6 +223,7 @@
       <workItem from="1646929314678" duration="1129000" />
       <workItem from="1647098486869" duration="2303000" />
       <workItem from="1647332818169" duration="11929000" />
+      <workItem from="1647510577488" duration="1558000" />
     </task>
     <servers />
   </component>

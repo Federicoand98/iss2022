@@ -7,7 +7,6 @@ import org.json.JSONTokener;
 import java.io.*;
 
 public class RadarSystemConfig {
-
     public static boolean tracing = false;
     public static boolean testing = false;
     public static int DLIMIT = 15;
