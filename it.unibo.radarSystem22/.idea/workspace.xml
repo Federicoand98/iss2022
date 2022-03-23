@@ -10,14 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="499ee6f4-2ada-410a-b4dc-5cfc0b9b484e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/it.unibo.radarSystem22.domain-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/libs/it.unibo.radarSystem22.domain-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/IApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/sprint1/ActionFunction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/sprint1/RadarSystemConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/sprint1/RadarSystemSprint1Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/unibo/radarSystem22/sprint1/RadarSystemSprint1Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/sprint1/usecases/LedAlarmUsecase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it/unibo/radarSystem22/sprint1/usecases/RadarGuiUsecase.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +77,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager" selected="Application.RadarSystemSprint1Main">
     <configuration name="RadarSystemSprint1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -223,7 +217,9 @@
       <workItem from="1646929314678" duration="1129000" />
       <workItem from="1647098486869" duration="2303000" />
       <workItem from="1647332818169" duration="11929000" />
-      <workItem from="1647510577488" duration="1558000" />
+      <workItem from="1647510577488" duration="3616000" />
+      <workItem from="1648031123801" duration="22000" />
+      <workItem from="1648048373727" duration="311000" />
     </task>
     <servers />
   </component>
